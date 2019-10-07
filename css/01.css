@@ -102,7 +102,6 @@ select {
     background-color: #fff;
     border-radius: 3px;
     padding: 6px 0;
-    border: 1px solid #efefef;
     user-select: none;
 }
 .admin_ul li a:hover{
@@ -129,7 +128,6 @@ select {
 .swiper-container {
     z-index: 1;
     position: relative;
-    border: solid yellow 5px;
     box-sizing: border-box;
     /* width: 10200px; */
     height: 650px;
@@ -805,3 +803,4 @@ em {
     box-shadow: 1px 1px 30px rgb(199, 199, 199);
     transition: 0.3s linear;
 }
+/* meizu */
